@@ -27,7 +27,7 @@ SECRET_KEY = 'j^wv#mt@cdud4ni%o29m=z1g1-u(=6b0@=a0#(%d5(zzx_h7te'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'django-todo-list-ci-learning.herokuapp.com/'
+    'django-todo-list-ci-learning.herokuapp.com'
 ]
 
 
